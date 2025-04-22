@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "./Header.jsx";
-import About from "./About.jsx";
-import ArticleList from "./ArticleList.jsx";
+import Header from "./Header.js";
+import About from "./About.js";
+import ArticleList from "./ArticleList.js";
 
 
 const blogName = "Overreacted";
